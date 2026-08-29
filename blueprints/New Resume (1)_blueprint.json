@@ -1,0 +1,24 @@
+{
+    "file_path": "Resumes/New Resume (1).pdf",
+    "metadata": {
+        "name": "JOSEPH W HITE"
+    },
+    "Sections": {
+        "Summary": {
+            "Text": "Enthusiastic engineering student with proficiency in CAD software and a passion for renewable energy solutions. Proven analytical  and problem-solving abilities, evidenced through effective collaboration on cross-functional projects. Aims to leverage academic  knowledge and hands-on internship experience in a dynamic engineering environment.",
+            "Entities": {}
+        },
+        "Experience": {
+            "Text": "BrightPath Energy Solutions Charlotte, NC Engineering Intern 01/2025 - 01/2026 Assisted in the design of a solar panel prototype increasing energy capture by 15% compared to existing models. Compiled comprehensive performance analysis reports for 3 ongoing projects to inform strategic decision-making. Supported troubleshooting efforts that resulted in a 10% increase in operational efficiency for faulty systems. Collected and processed data from 5 live systems monthly, enhancing the predictive accuracy of efficiency models. Facilitated weekly project strategy meetings which streamlined cross-team communication and project alignment. Developed CAD models using SolidWorks, reducing prototype error margins by 5% through precise simulations. University of North Carolina at Charlotte - Energy Research Initiative Charlotte, NC Renewable Energy Project Collaborator 01/2025 - 01/2025 Engaged in a university-led project designing wind turbines, contributing to improved blade efficiency by 12%. Partnered with a team of five to conduct comprehensive data analysis for sustainability research initiatives. Presented at two seminars showcasing innovative turbine design, enhancing peer understanding of renewable options. Collaborated effectively with diverse teams, enhancing project outcomes through strong interpersonal communication skills.",
+            "Entities": {}
+        },
+        "Education": {
+            "Text": "University of North Carolina at Charlotte Charlotte, NC Bachelor of Science in Mechanical Engineering 01/2021 - 01/2025 Strength s Data Analysis Conducted technical analysis for  renewable systems, enhancing  operational efficiency through  informed strategies.Communication Skills Presented renewable energy  solutions to diverse audiences at  seminars, boosting awareness and  Led collaborative efforts in cross- functional teams, facilitating synergy  and project completion within  deadlines.",
+            "Entities": {}
+        },
+        "Skills": {
+            "Text": "CAD ModelingAutoCADRenewable Energy SystemsMATLABData AnalysisProblem Solving",
+            "Entities": {}
+        }
+    }
+}

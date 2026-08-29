@@ -1,0 +1,24 @@
+{
+    "file_path": "Resumes/New Resume (7).pdf",
+    "metadata": {
+        "name": "OLIVER DAVIS"
+    },
+    "Sections": {
+        "Summary": {
+            "Text": "Enthusiastic engineering student eager to contribute to sustainable technology  advancements. Skilled in MATLAB and SolidWorks, with a strong foundation in data  analysis and lab maintenance. Aspires to innovate in laboratory settings and  contribute effectively to engineering research.",
+            "Entities": {}
+        },
+        "Experience": {
+            "Text": "Engineering Lab Intern 01/2026 - 01/2026 Advanced Engineering Technologies Denver, CO Assisted in the design and setup of electrical circuit experiments, achieving a  20% increase in testing efficiency. Documented and analyzed experimental data using MATLAB, enhancing data  accuracy by 15% for future research. collaborated with senior engineers on troubleshooting experiment setups,  leading to a 30% reduction in downtime. Maintained calibration schedules of over 50 lab instruments, ensuring 100%  compliance with safety regulations. Compiled research findings into detailed reports, which improved lab operational  strategies by 10%. Utilized analytical skills to enhance system performance, reducing errors in  documentation by 25%. Team Project Coordinator 01/2025 - 01/2025 University Engineering Society Denver, CO Led a team of 5 on a project developing a solar energy prototype, which won  2nd place in a statewide competition. Managed project timelines and resource allocation, ensuring on-time delivery of  all project milestones. Facilitated weekly team meetings to brainstorm innovative solutions, fostering a  collaborative environment. Utilized AutoCAD for design planning, improving model precision and reducing  iteration cycles by 20%.",
+            "Entities": {}
+        },
+        "Education": {
+            "Text": "Bachelor of Science in Mechanical  Engineering01/2023 - 01/2026 University of Colorado Boulder Boulder, ColoradoVOLUNTEERING Community Workshop  Facilitator Engineers Without Borders USA -  Denver Chapter 01/2025 - 01/2025 Organized and led workshops to  teach basic engineering principles to  underserved youths. Facilitated a series of 6 educational  workshops, engaging over 50  participants in hands-on projects. Collaborated with volunteer  engineers to develop programs  focused on renewable energy  LANGUAGES English Native Spanish Advanced",
+            "Entities": {}
+        },
+        "Skills": {
+            "Text": "MATLABLabVIEW Microsoft Office SuiteSolidWorks AutoCADData Analysis TRAINING / COURSES Introduction to MATLAB  Programming Offered by Coursera, obtained in  2025. Sustainable Engineering  Practices Completed at edX, issued in 2025. Advanced AutoCAD Techniques Certification received from LinkedIn  Learning in 2025.",
+            "Entities": {}
+        }
+    }
+}

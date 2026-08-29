@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+Ollama.dmg
+*.png
+*.sqlite3
+__pycache__/
+.venv/
+venv/
+.env

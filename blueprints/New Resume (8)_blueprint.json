@@ -1,0 +1,24 @@
+{
+    "file_path": "Resumes/New Resume (8).pdf",
+    "metadata": {
+        "name": "ZOE THOMPSON"
+    },
+    "Sections": {
+        "Summary": {
+            "Text": "Eager engineering student with expertise in CAD software, passionate about sustainable engineering solutions. Strong  collaboration and analytical skills contribute to effective team environments. Aims to leverage engineering skills in innovative  technology projects.",
+            "Entities": {}
+        },
+        "Experience": {
+            "Text": "Engineering Project Team MemberAustin, Texas InnovateTech Group 03/2025 - 07/2026 Led a cross-functional team to create a sustainable engineering solution, increasing energy efficiency by 15%. Applied CAD software to produce detailed design models, which facilitated prototype development and testing. Engaged in weekly meetings with engineers, analyzing data which informed strategic project adjustments. Developed comprehensive technical reports which supported key engineering decisions and refined project outcomes. Collaborated in a diverse team environment, enhancing communication skills to effectively convey technical insights. Robotics Club LeadFort Worth, Texas Emerging Tech Robotics 05/2025 - 10/2025 Facilitated the design and testing of robots, resulting in improved accuracy of operations by 25%. Conducted research and compiled reports, contributing to the optimization of robotic functions and designs. Utilized MATLAB for simulation and data analysis to refine robotic parameters, enhancing reliability. Organized weekly hands-on sessions, fostering teamwork and communication among engineering students.",
+            "Entities": {}
+        },
+        "Education": {
+            "Text": "Bachelor of Science in Mechanical EngineeringAustin, Texas University of Texas at Austin01/2022 - 01/2025",
+            "Entities": {}
+        },
+        "Skills": {
+            "Text": "CAD Modeling,AutoCAD,SolidWorks,Data Analysis,Microsoft Office Suite,MATLAB",
+            "Entities": {}
+        }
+    }
+}

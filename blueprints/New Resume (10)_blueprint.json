@@ -1,0 +1,24 @@
+{
+    "file_path": "Resumes/New Resume (10).pdf",
+    "metadata": {
+        "name": "ANTHONY HARRIS"
+    },
+    "Sections": {
+        "Summary": {
+            "Text": "Passionate about engineering challenges  and sustainable solutions, eager to  contribute to innovative projects in  renewable energy and smart technology.  Skilled in CAD, data analysis, and  technical communication, with a  dedication to collaborating on impactful  engineering solutions. Aspires to develop  a career in engineering consultancy  focusing on sustainable practices and  cutting-edge technologies. TRAINING / COURSES Professional CAD Drafting  Certification Certified by AutoDesk, obtained in 2024. Energy Systems Optimization Offered by Coursera, completed in 2024. Introduction to Renewable Energy Certified by edX, issued in 2023.",
+            "Entities": {}
+        },
+        "Experience": {
+            "Text": "Engineering Intern GreenTech Designs 01/2025 - 01/2026\u00a0 Los Angeles, CA Assisted project teams in designing advanced renewable energy systems,  contributing to designs that improved efficiency by 15%. Conducted comprehensive data analysis using MATLAB, optimizing engineering  processes and increasing project success rates by 20%. Drafted detailed technical reports and created presentations for stakeholders,  effectively communicating project insights and outcomes. Actively participated in team meetings, suggesting innovative ideas that led to  the development of two new project improvement initiatives. Developed precise CAD models supporting project demonstrations, enhancing  team presentations during client review sessions. Coordinated with project managers to achieve 100% on-time delivery of key  project milestones, supporting effective project management.",
+            "Entities": {}
+        },
+        "Education": {
+            "Text": "Bachelor's Degree in Mechanical Engineering University of California, Los Angeles (UCLA) 01/2021 - 01/2025\u00a0 Los Angeles, CA",
+            "Entities": {}
+        },
+        "Skills": {
+            "Text": "AutoCAD MATLAB SolidWorks MS Office Suite Data Analysis Project Management Tools",
+            "Entities": {}
+        }
+    }
+}

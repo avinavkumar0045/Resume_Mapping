@@ -1,0 +1,24 @@
+{
+    "file_path": "Resumes/New Resume (2).pdf",
+    "metadata": {
+        "name": "LUKE ADAMS"
+    },
+    "Sections": {
+        "Summary": {
+            "Text": "Driven Mechanical Engineering Student skilled in AutoCAD and data  analysis, aiming to leverage cutting-edge engineering solutions for  sustainability. Effective communicator and problem solver, eager to  contribute to impactful projects. Seeking to advance technical  expertise and collaborate with industry professionals in the field.",
+            "Entities": {}
+        },
+        "Experience": {
+            "Text": "Project Design & Analysis Participant Sustainable Energy Corp01/2026 - 08/2026Austin, Texas Collaborated with team members to create detailed CAD drawings  resulting in a 15% decrease in design errors. Conducted comprehensive data analysis that supported decision- making processes, enhancing project outcomes by 10%. Contributed to sustainability assessments, receiving positive  feedback from senior engineers on environmental considerations. Active participation in project meetings, offering innovative  suggestions for project efficiency and outcomes. Demonstrated strong interdisciplinary communication skills during  coordination with engineers and project managers. Research & Development Collaborator EcoBuild Innovations06/2026 - 12/2026Houston, Texas Led project documentation efforts, producing clear reports and  specifications, crucial for project planning phases. Executed field tests and collected data which were key for  verifying project quality and ensuring accuracy. Learned and applied advanced engineering software, increasing  project development efficiency by 12%. Exemplified adaptability and teamwork during diverse project  tasks, contributing to a collaborative team atmosphere.",
+            "Entities": {}
+        },
+        "Education": {
+            "Text": "",
+            "Entities": {}
+        },
+        "Skills": {
+            "Text": "A u t o C A D M i c r o s o f t  O f f i c e  S u i t e D a t a  A n a l y s i s P r o j e c t  M a n a g e m e n t S u s t a i n a b i l i t y  P r a c t i c e s E n g i n e e r i n g  S o f t w a r e  T o o l s",
+            "Entities": {}
+        }
+    }
+}

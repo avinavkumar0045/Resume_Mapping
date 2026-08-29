@@ -1,0 +1,24 @@
+{
+    "file_path": "Resumes/New Resume (4).pdf",
+    "metadata": {
+        "name": "LUKE ADAMS"
+    },
+    "Sections": {
+        "Summary": {
+            "Text": "Aspiring engineering professional with hands-on experience in project  management and CAD software. Strong analytical and communication skills, eager  to contribute to cutting-edge renewable energy projects. Aims to leverage  technical skills and passion for sustainable innovation to make significant  contributions in the engineering field.",
+            "Entities": {}
+        },
+        "Experience": {
+            "Text": "Engineering Intern 01/2025 - 01/2026 GreenTech Solutions San Francisco, CA Collaborated with a team of engineers to design and test three prototype  devices resulting in an 18% increase in efficiency. Assisted in preparing comprehensive engineering reports and delivered a  presentation to stakeholders, improving communication and project clarity. Coordinated cross-departmental meetings, ensuring seamless communication,  which reduced project delays by 10% in a six-month period. Utilized AutoCAD to model components for renewable energy projects,  enhancing design accuracy by 15%. Developed budget estimates and resource plans for two medium-sized projects,  supporting senior engineers in strategic planning. Conducted thorough market research on technological trends, aiding the team  in strategic decision-making processes for new products. Team Leader 01/2024 - 01/2025 University Solar Car Project San Francisco, CA Led a team of six students to design and construct a solar-powered vehicle,  which achieved a 200-mile range in trials. Organized weekly team meetings to streamline tasks and deadlines, which  significantly improved project workflow and team productivity. Managed project documentation and ensured timely submission of all necessary  reports and data during the competition phase. Implemented troubleshooting techniques that resolved technical issues, leading  to a 25% improvement in vehicle performance.",
+            "Entities": {}
+        },
+        "Education": {
+            "Text": "",
+            "Entities": {}
+        },
+        "Skills": {
+            "Text": "AutoCADSolidWorks Microsoft ProjectData Analysis PythonRenewable Energy TRAINING / COURSES Advanced CAD Modeling and  Simulation Coursera, 2024 Project Management Essentials Project Management Institute, 2025 Renewable Energy Technology:  Wind, Solar, and Beyond edX, 2024",
+            "Entities": {}
+        }
+    }
+}
