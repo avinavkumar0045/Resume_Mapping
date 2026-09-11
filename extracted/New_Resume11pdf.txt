@@ -1,0 +1,60 @@
+RAJ KUMAR MEHTA 
+  +91 92632 30197   mraj54131@gmail.com   linkedin.com/in/raj-mehta-77387a2b3 
+  github.com/rajmehta03 
+Education 
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY 
+2024 - 2028 
+Kattankulathur, Chennai, Tamil Nadu, India 
+B.Tech in Computer Science 
+Projects & Experience 
+Samvidhan Setu – AI-Powered Virtual Courtrooms | React, Node.js, MongoDB, JWT Auth, Jitsi 
+2025 
+• Developed an AI-powered platform to simplify constitutional laws, citizens’ rights, and legal procedures using NLP. 
+• Implemented multilingual, context-aware legal query handling to map user inputs to relevant articles and legal cases. 
+• Designed secure, role-based access for citizens, law students, lawyers, and administrators with persistent records. 
+• Integrated a virtual courtroom module enabling online hearings, mock trials, and legal collaboration with real-time. 
+• Project recognized as Best Freshers Team at OSSome Hacks 2.0 
+Body Language Detector | Python, OpenCV, MediaPipe, and TensorFlow/PyTorch 
+2025 
+• Created an AI-based body language analysis system especially for interviews, mock interviews, and virtual meetings. 
+• Used computer vision to analyze facial expressions, eye contact, posture, and gestures during video calls. 
+• Provided real-time feedback and post-session analytics (conﬁdence, attentiveness, nervousness, etc.) 
+• Project recognized as Best Project of HackPick 2025. 
+Online-Organ-Donation-Management-System | Java, JavaScrip, SpringBoot, H2 
+2025 
+• A centralized web-based system to manage organ donor and recipient registration with veriﬁed medical details. 
+• role-based dashboards for hospitals, administrators, and users to handle requests, approvals, and workﬂows securely. 
+• Designed a priority-based organ matching mechanism considering medical urgency, and availability to reduce delays. 
+VID2NOTES | JavaScrip, Python, Docker, FFmpeg, LLaMA 3.3 , Whisper 2026 
+• Developed a web-based application to convert educational videos and YouTube links into structured notes, summaries, and 
+key learning points using AI. 
+• Integrated AI-based summarization, key-point extraction, and quiz generation to enhance learning and revision efﬁciency. 
+Technical Skills 
+Programming Languages: Python, Java, C++, HTML/CSS, JavaScript 
+Computer Vision: OpenCV, MediaPipe 
+Databases and Systems: MongoDB, Supabase, H2 Database, Docker 
+Web & Backend Technologies: React.js, Spring Boot, Node.js 
+Tools & Platforms : Git, Linux, VS Code, Jupyter Notebook 
+Leadership / Extracurricular 
+Team PROTON 
+2025 
+SRM UNIVERSITY KTR 
+Team Lead 
+• Secured Best Project Award at HACKPICK 2025 (Altruisty Innovation Pvt. Ltd. × SRM) and awarded with an 
+internship offer at Altruisty Innovation Pvt. Ltd. 
+Smart India Hackathon 
+2025 
+Team Lead India 
+• Worked on a Government problem statement involving applied software and data-driven solutions. 
+GeeksforGeeks (GFG SRMIST) 
+2026 
+Coordinator SRM UNIVERSITY KTR 
+• Managed event planning, team coordination, and technical outreach for the student developer community. 
+Futurix (Ofﬁcial Association Of Ctech Department ) 
+Tech Member 
+2026 
+SRM UNIVERSITY KTR 
+• Contributed to building the ofﬁcial club website and technical automation tools for idea submissions. 
+
+
+[IMAGE EXTRACTED: New_Resume11pdf_page1_img0.jpeg]

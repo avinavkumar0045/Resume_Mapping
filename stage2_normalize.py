@@ -1,101 +1,130 @@
 import os
-import json
-import requests
 import re
+import json
 
 EXTRACTED_DIR = "extracted"
 NORMALIZED_DIR = "normalized"
-OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL = "qwen2.5-coder" # Adjust if your model name is different
 
-PROMPT_TEMPLATE = """You are an expert data extractor. Extract the information from the resume text below into a strict JSON object matching this exact structure:
-{
-  "person": {
-    "name": "string or null",
-    "email": "string or null",
-    "phone": "string or null",
-    "location": "string or null",
-    "linkedin": "string or null",
-    "github": "string or null",
-    "portfolio": "string or null"
-  },
-  "summary": "string or null",
-  "education": [
-    {
-      "institution": "string",
-      "degree": "string",
-      "field": "string",
-      "start_date": "string or null",
-      "end_date": "string or null"
-    }
-  ],
-  "experience": [
-    {
-      "company": "string",
-      "role": "string",
-      "description": "string"
-    }
-  ],
-  "skills": ["string"],
-  "projects": [],
-  "certifications": [],
-  "images": []
-}
+def extract_email(text):
+    match = re.search(r'[\w\.-]+@[\w\.-]+\.\w+', text)
+    return match.group(0) if match else None
 
-Rules:
-1. Ensure the output is ONLY valid JSON. No markdown, no explanations.
-2. For the "images" array, if you see any text like [IMAGE EXTRACTED: filename.png], extract it and format it as {"path": "extracted_images/filename.png", "context": "header"} in the JSON.
-3. Be as accurate as possible extracting companies, roles, and schools.
+def extract_phone(text):
+    match = re.search(r'\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}', text)
+    return match.group(0) if match else None
 
-Resume Text:
-"""
-
-def normalize_with_llm(text):
-    prompt = PROMPT_TEMPLATE + text
-    payload = {
-        "model": MODEL,
-        "prompt": prompt,
-        "stream": False,
-        "format": "json"  # Forces Ollama to output valid JSON
+def normalize_text_to_json(text):
+    lines = [line.strip() for line in text.split('\n') if line.strip()]
+    
+    normalized = {
+        "person": {
+            "name": lines[0] if lines else None,
+            "email": extract_email(text),
+            "phone": extract_phone(text),
+            "location": None,
+            "linkedin": None,
+            "github": None,
+            "portfolio": None
+        },
+        "summary": None,
+        "education": [],
+        "experience": [],
+        "skills": [],
+        "projects": [],
+        "certifications": [],
+        "achievements": [],
+        "images": [] 
     }
     
-    try:
-        # Increased timeout to 120 seconds to prevent the error you saw!
-        response = requests.post(OLLAMA_URL, json=payload, timeout=120)
-        response.raise_for_status()
+    current_section = None
+    
+    for line in lines[1:]: 
+        lower_line = line.lower()
         
-        result_text = response.json().get('response', '')
-        # Clean up any potential markdown formatting
-        result_text = result_text.replace('```json', '').replace('```', '').strip()
+        img_match = re.search(r'\[IMAGE EXTRACTED: (.*?)\]', line)
+        if img_match:
+            img_filename = img_match.group(1)
+            normalized["images"].append({
+                "path": f"extracted_images/{img_filename}",
+                "context": current_section if current_section else "header"
+            })
+            continue 
         
-        return json.loads(result_text)
-    except Exception as e:
-        print(f"LLM extraction error: {e}")
-        return None
+        if lower_line.startswith("sum m ary") or lower_line.startswith("summary"):
+            current_section = "summary"
+            continue
+        elif lower_line.startswith("experience") or lower_line.startswith("work history"):
+            current_section = "experience"
+            continue
+        elif lower_line.startswith("education"):
+            current_section = "education"
+            continue
+        elif lower_line.startswith("skills"):
+            current_section = "skills"
+            continue
+        elif lower_line.startswith("projects"):
+            current_section = "projects"
+            continue
+        elif lower_line.startswith("certifications"):
+            current_section = "certifications"
+            continue
+            
+        if current_section == "summary":
+            normalized["summary"] = (normalized["summary"] or "") + line + " "
+            
+        elif current_section == "skills":
+            parts = re.split(r'[,|•]', line)
+            for part in parts:
+                if part.strip() and len(part.strip()) > 1:
+                    normalized["skills"].append(part.strip())
+                    
+        elif current_section == "experience":
+            if not normalized["experience"]:
+                normalized["experience"].append({"company": "Unknown", "role": "Unknown", "description": line})
+            else:
+                normalized["experience"][-1]["description"] += "\n" + line
+                
+        elif current_section == "education":
+            if not normalized["education"]:
+                normalized["education"].append({
+                    "institution": line,
+                    "degree": None,
+                    "field": None,
+                    "start_date": None,
+                    "end_date": None,
+                    "graduation_date": None,
+                    "gpa": None,
+                    "percentage": None,
+                    "coursework": []
+                })
+            else:
+                if not normalized["education"][-1]["degree"]:
+                    normalized["education"][-1]["degree"] = line
+                    
+    if normalized["summary"]:
+        normalized["summary"] = normalized["summary"].strip()
+        
+    return normalized
 
 def run_normalization():
     os.makedirs(NORMALIZED_DIR, exist_ok=True)
     files = [f for f in os.listdir(EXTRACTED_DIR) if f.endswith('.txt')]
-    
-    print(f"Found {len(files)} files to normalize with Qwen...")
+    print(f"Found {len(files)} files to normalize with FAST SCRIPT (No Qwen)...")
     
     for filename in sorted(files):
         in_filepath = os.path.join(EXTRACTED_DIR, filename)
         out_filename = filename.replace('.txt', '.json')
         out_filepath = os.path.join(NORMALIZED_DIR, out_filename)
         
-        print(f"Processing {filename} with Qwen LLM...")
         with open(in_filepath, "r", encoding="utf-8") as f:
             raw_text = f.read()
             
-        json_blueprint = normalize_with_llm(raw_text)
+        json_blueprint = normalize_text_to_json(raw_text)
         
-        if json_blueprint:
-            with open(out_filepath, "w", encoding="utf-8") as out_f:
-                json.dump(json_blueprint, out_f, indent=4)
-            print(f"✅ Successfully normalized: {out_filename}")
-        else:
-            print(f"❌ Failed to parse JSON for {filename}")
+        with open(out_filepath, "w", encoding="utf-8") as out_f:
+            json.dump(json_blueprint, out_f, indent=4)
+            
+        print(f"✅ Fast Normalized: {filename} -> {out_filename}")
 
 if __name__ == "__main__":
     run_normalization()

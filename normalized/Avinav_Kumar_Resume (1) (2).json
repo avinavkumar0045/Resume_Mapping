@@ -1,0 +1,31 @@
+{
+    "person": {
+        "name": "AVINAV KUMAR",
+        "email": "avinavkumar0045@gmail.com",
+        "phone": "6299816845",
+        "location": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": "SRM Institute of Science and Technology",
+            "degree": "B.Tech in Computer Science and Engineering",
+            "field": null,
+            "start_date": null,
+            "end_date": null,
+            "graduation_date": null,
+            "gpa": null,
+            "percentage": null,
+            "coursework": []
+        }
+    ],
+    "experience": [],
+    "skills": [],
+    "projects": [],
+    "certifications": [],
+    "achievements": [],
+    "images": []
+}

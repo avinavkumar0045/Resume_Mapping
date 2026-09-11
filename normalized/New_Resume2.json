@@ -1,0 +1,59 @@
+{
+    "person": {
+        "name": "LUKE ADAMS",
+        "email": null,
+        "phone": "(234)-555-1234",
+        "location": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Driven Mechanical Engineering Student skilled in AutoCAD and data analysis, aiming to leverage cutting-edge engineering solutions for sustainability. Effective communicator and problem solver, eager to contribute to impactful projects. Seeking to advance technical expertise and collaborate with industry professionals in the field.",
+    "education": [
+        {
+            "institution": "Bachelor's Degree in Mechanical",
+            "degree": "Engineering",
+            "field": null,
+            "start_date": null,
+            "end_date": null,
+            "graduation_date": null,
+            "gpa": null,
+            "percentage": null,
+            "coursework": []
+        }
+    ],
+    "experience": [
+        {
+            "company": "Unknown",
+            "role": "Unknown",
+            "description": "Project Design & Analysis Participant\nSustainable Energy Corp\n01/2026 - 08/2026\nAustin, Texas\nCollaborated with team members to create detailed CAD drawings\nresulting in a 15% decrease in design errors.\nConducted comprehensive data analysis that supported decision-\nmaking processes, enhancing project outcomes by 10%.\nContributed to sustainability assessments, receiving positive\nfeedback from senior engineers on environmental considerations.\nActive participation in project meetings, offering innovative\nsuggestions for project efficiency and outcomes.\nDemonstrated strong interdisciplinary communication skills during\ncoordination with engineers and project managers.\nResearch & Development Collaborator\nEcoBuild Innovations\n06/2026 - 12/2026\nHouston, Texas\nLed project documentation efforts, producing clear reports and\nspecifications, crucial for project planning phases.\nExecuted field tests and collected data which were key for\nverifying project quality and ensuring accuracy.\nLearned and applied advanced engineering software, increasing\nproject development efficiency by 12%.\nExemplified adaptability and teamwork during diverse project\ntasks, contributing to a collaborative team atmosphere.\nVOLUNTEERING\nEnvironmental Conservation Volunteer\nTexas Environmental Initiative\n02/2025 - 05/2025\nContributed to local projects aiming at environmental preservation\nand sustainability.\nAssisted in organizing and conducting educational workshops on\nsustainable practices.\nCoordinated a team of 15 volunteers for tree planting activities\nacross various local parks.\nCollaborated with community leaders to implement a recycling\nprogram at two major local events.\nTRAINING / COURSES\nAutoCAD Advanced\nCertification\nIssued by AutoDesk, 2025.\nSustainable Engineering\nPractices\nTexas Engineering Extension\nService, 2025.\nProject Management\nFundamentals\nCoursera, 2024."
+        }
+    ],
+    "skills": [
+        "AutoCAD",
+        "Microsoft Office Suite",
+        "Data Analysis",
+        "Project Management",
+        "Sustainability Practices",
+        "Engineering Software Tools",
+        "INTERESTS",
+        "Innovative Engineering Solutions",
+        "Enthusiastic about contributing to projects",
+        "that offer sustainable and forward-thinking",
+        "engineering solutions.",
+        "Outdoor Activities",
+        "Enjoy hiking and exploring nature",
+        "connecting",
+        "with the environment in meaningful ways.",
+        "Robotics and Automation",
+        "Fascinated by the potential of robotics to",
+        "revolutionize industries and improve",
+        "efficiency.",
+        "www.enhancv.com",
+        "Powered by"
+    ],
+    "projects": [],
+    "certifications": [],
+    "achievements": [],
+    "images": []
+}

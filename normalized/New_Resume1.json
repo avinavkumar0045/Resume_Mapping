@@ -1,0 +1,39 @@
+{
+    "person": {
+        "name": "JOSEPH WHITE",
+        "email": null,
+        "phone": "(234)-555-1234",
+        "location": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Enthusiastic engineering student with proficiency in CAD software and a passion for renewable energy solutions. Proven analytical and problem-solving abilities, evidenced through effective collaboration on cross-functional projects. Aims to leverage academic knowledge and hands-on internship experience in a dynamic engineering environment.",
+    "education": [
+        {
+            "institution": "University of North Carolina at Charlotte",
+            "degree": "Charlotte, NC",
+            "field": null,
+            "start_date": null,
+            "end_date": null,
+            "graduation_date": null,
+            "gpa": null,
+            "percentage": null,
+            "coursework": []
+        }
+    ],
+    "experience": [
+        {
+            "company": "Unknown",
+            "role": "Unknown",
+            "description": "BrightPath Energy Solutions\nCharlotte, NC\nEngineering Intern\n01/2025 - 01/2026\nAssisted in the design of a solar panel prototype increasing energy capture by 15% compared to existing models.\nCompiled comprehensive performance analysis reports for 3 ongoing projects to inform strategic decision-making.\nSupported troubleshooting efforts that resulted in a 10% increase in operational efficiency for faulty systems.\nCollected and processed data from 5 live systems monthly, enhancing the predictive accuracy of efficiency models.\nFacilitated weekly project strategy meetings which streamlined cross-team communication and project alignment.\nDeveloped CAD models using SolidWorks, reducing prototype error margins by 5% through precise simulations.\nUniversity of North Carolina at Charlotte - Energy Research Initiative\nCharlotte, NC\nRenewable Energy Project Collaborator\n01/2025 - 01/2025\nEngaged in a university-led project designing wind turbines, contributing to improved blade efficiency by 12%.\nPartnered with a team of five to conduct comprehensive data analysis for sustainability research initiatives.\nPresented at two seminars showcasing innovative turbine design, enhancing peer understanding of renewable options.\nCollaborated effectively with diverse teams, enhancing project outcomes through strong interpersonal communication skills.\nVolunteering\nGreen Earth Volunteers\nVolunteer Energy Consultant\n01/2024 - 01/2025\nAssessed household energy efficiency, recommending solutions to reduce energy consumption by an average of 20%.\nOrganized and conducted workshops on renewable energy benefits, reaching over 100 participants.\nCollaborated with a team to implement a community solar garden initiative benefiting low-income households."
+        }
+    ],
+    "skills": [
+        "CAD Modeling AutoCAD Renewable Energy Systems MATLAB Data Analysis Problem Solving"
+    ],
+    "projects": [],
+    "certifications": [],
+    "achievements": [],
+    "images": []
+}

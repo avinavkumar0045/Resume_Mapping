@@ -4,7 +4,7 @@ from neo4j import GraphDatabase
 
 NEO4J_URI = "neo4j://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "YOUR_NEW_PASSWORD_HERE" # <-- You must edit this!
+NEO4J_PASSWORD = "Avinav@45" # <-- You must edit this!
 
 NORMALIZED_DIR = "normalized"
 

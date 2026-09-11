@@ -1,0 +1,62 @@
+{
+    "person": {
+        "name": "LUKE ADAMS",
+        "email": null,
+        "phone": "(234)-555-1234",
+        "location": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Aspiring engineering professional with hands-on experience in project management and CAD software. Strong analytical and communication skills, eager to contribute to cutting-edge renewable energy projects. Aims to leverage technical skills and passion for sustainable innovation to make significant contributions in the engineering field.",
+    "education": [
+        {
+            "institution": "Bachelor of Science in",
+            "degree": "Mechanical Engineering",
+            "field": null,
+            "start_date": null,
+            "end_date": null,
+            "graduation_date": null,
+            "gpa": null,
+            "percentage": null,
+            "coursework": []
+        }
+    ],
+    "experience": [
+        {
+            "company": "Unknown",
+            "role": "Unknown",
+            "description": "Engineering Intern\n01/2025 - 01/2026\nGreenTech Solutions\nSan Francisco, CA\nCollaborated with a team of engineers to design and test three prototype\ndevices resulting in an 18% increase in efficiency.\nAssisted in preparing comprehensive engineering reports and delivered a\npresentation to stakeholders, improving communication and project clarity.\nCoordinated cross-departmental meetings, ensuring seamless communication,\nwhich reduced project delays by 10% in a six-month period.\nUtilized AutoCAD to model components for renewable energy projects,\nenhancing design accuracy by 15%.\nDeveloped budget estimates and resource plans for two medium-sized projects,\nsupporting senior engineers in strategic planning.\nConducted thorough market research on technological trends, aiding the team\nin strategic decision-making processes for new products.\nTeam Leader\n01/2024 - 01/2025\nUniversity Solar Car Project\nSan Francisco, CA\nLed a team of six students to design and construct a solar-powered vehicle,\nwhich achieved a 200-mile range in trials.\nOrganized weekly team meetings to streamline tasks and deadlines, which\nsignificantly improved project workflow and team productivity.\nManaged project documentation and ensured timely submission of all necessary\nreports and data during the competition phase.\nImplemented troubleshooting techniques that resolved technical issues, leading\nto a 25% improvement in vehicle performance.\nVOLUNTEERING\nVolunteer Coordinator\n01/2023 - 01/2024\nClean Energy Corps\nOrganized community workshops to educate about renewable energy solutions.\nCoordinated with local schools to promote environmental sustainability\ninitiatives."
+        }
+    ],
+    "skills": [
+        "AutoCAD SolidWorks",
+        "Microsoft Project Data Analysis",
+        "Python Renewable Energy",
+        "TRAINING / COURSES",
+        "Advanced CAD Modeling and",
+        "Simulation",
+        "Coursera",
+        "2024",
+        "Project Management Essentials",
+        "Project Management Institute",
+        "2025",
+        "Renewable Energy Technology:",
+        "Wind",
+        "Solar",
+        "and Beyond",
+        "edX",
+        "2024",
+        "INTERESTS",
+        "Sustainable Engineering",
+        "Driving innovation in renewable",
+        "energy technologies for a cleaner",
+        "healthier planet.",
+        "www.enhancv.com",
+        "Powered by"
+    ],
+    "projects": [],
+    "certifications": [],
+    "achievements": [],
+    "images": []
+}
