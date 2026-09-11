@@ -1,0 +1,82 @@
+{
+    "person": {
+        "name": "Engineering Student Research Assistant | Sustainability",
+        "email": null,
+        "phone": "(234)-555-1234",
+        "location": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Driven Engineering Student Research Assistant aiming to leverage academic knowledge and software proficiency to develop sustainable engineering solutions. Excels in data analysis, report preparation, and project documentation management with strong collaborative skills. Aspires to enhance these capabilities in a forward-thinking environment committed to eco-friendly innovation.",
+    "education": [
+        {
+            "institution": "Bachelor of Science in",
+            "degree": "Environmental Engineering",
+            "field": null,
+            "start_date": null,
+            "end_date": null,
+            "graduation_date": null,
+            "gpa": null,
+            "percentage": null,
+            "coursework": []
+        }
+    ],
+    "experience": [
+        {
+            "company": "Unknown",
+            "role": "Unknown",
+            "description": "Engineering Research Intern\n01/2026 - 01/2026\nGreenTech Solutions\nDallas, Texas\nCollaborated closely with a team of engineers to conduct research that\nsupported over 5 ongoing projects in sustainable urban development.\nOrganized and maintained project documentation, which improved data retrieval\nefficiency by 30%, aiding project managers.\nAssisted in the collection, analysis, and presentation of environmental data,\nleading to the unveiling of actionable insights.\nSupported engineers in the documentation and review of technical reports,\nsharpening attention to detail and improving the quality of output.\nParticipated in the development of prototypes, performing initial testing that\ncontributed to a 10% improvement in energy efficiency.\nPrepared technical reports and presentations summarizing research findings,\nenhancing team's understanding and decision-making.\nIndependent Research Project\n01/2025 - 01/2025\nUniversity of Texas at Austin\nAustin, Texas\nConducted an independent research project on eco-engineering practices,\nresulting in a presentation to an audience of 50 peers and educators.\nGathered and analyzed data from various sources, producing detailed reports\nthat highlighted key insights into sustainable practices.\nUtilized MATLAB for data simulation, effectively illustrating environmental impact\nresulting from different construction methodologies.\nManaged project timelines and resources, reinforcing efficient collaboration"
+        }
+    ],
+    "skills": [
+        "TRAINING / COURSES",
+        "Sustainable Urban Infrastructure",
+        "by Columbia University",
+        "Columbia University",
+        "2025",
+        "AutoCAD for Environmental",
+        "Engineers",
+        "Coursera",
+        "2024",
+        "Environmental Impact",
+        "Assessment Techniques",
+        "EdX",
+        "2025",
+        "VOLUNTEERING",
+        "Environmental Outreach",
+        "Volunteer",
+        "Keep Fort Worth Beautiful",
+        "01/2024 - 01/2026",
+        "Participated in community outreach",
+        "and educational programs to promote",
+        "sustainable practices.",
+        "Worked with a team to design and",
+        "implement eco-friendly community",
+        "activities.",
+        "Developed educational materials",
+        "for schools",
+        "directly reaching over",
+        "300 students.",
+        "Facilitated workshops on",
+        "sustainability",
+        "strengthening public",
+        "awareness and community",
+        "engagement.",
+        "AutoCAD MATLAB Data Analysis",
+        "Report Writing Project Coordination",
+        "Sustainability Practices",
+        "INTERESTS",
+        "Renewable Energy Innovations",
+        "Passionate about advancing",
+        "renewable energy technologies to",
+        "foster a sustainable future for",
+        "upcoming generations.",
+        "www.enhancv.com",
+        "Powered by"
+    ],
+    "projects": [],
+    "certifications": [],
+    "achievements": [],
+    "images": []
+}

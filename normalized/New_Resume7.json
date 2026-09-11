@@ -1,0 +1,62 @@
+{
+    "person": {
+        "name": "OLIVER DAVIS",
+        "email": null,
+        "phone": "(234)-555-1234",
+        "location": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Enthusiastic engineering student eager to contribute to sustainable technology advancements. Skilled in MATLAB and SolidWorks, with a strong foundation in data analysis and lab maintenance. Aspires to innovate in laboratory settings and contribute effectively to engineering research.",
+    "education": [
+        {
+            "institution": "Bachelor of Science in Mechanical",
+            "degree": "Engineering",
+            "field": null,
+            "start_date": null,
+            "end_date": null,
+            "graduation_date": null,
+            "gpa": null,
+            "percentage": null,
+            "coursework": []
+        }
+    ],
+    "experience": [
+        {
+            "company": "Unknown",
+            "role": "Unknown",
+            "description": "Engineering Lab Intern\n01/2026 - 01/2026\nAdvanced Engineering Technologies\nDenver, CO\nAssisted in the design and setup of electrical circuit experiments, achieving a\n20% increase in testing efficiency.\nDocumented and analyzed experimental data using MATLAB, enhancing data\naccuracy by 15% for future research.\ncollaborated with senior engineers on troubleshooting experiment setups,\nleading to a 30% reduction in downtime.\nMaintained calibration schedules of over 50 lab instruments, ensuring 100%\ncompliance with safety regulations.\nCompiled research findings into detailed reports, which improved lab operational\nstrategies by 10%.\nUtilized analytical skills to enhance system performance, reducing errors in\ndocumentation by 25%.\nTeam Project Coordinator\n01/2025 - 01/2025\nUniversity Engineering Society\nDenver, CO\nLed a team of 5 on a project developing a solar energy prototype, which won\n2nd place in a statewide competition.\nManaged project timelines and resource allocation, ensuring on-time delivery of\nall project milestones.\nFacilitated weekly team meetings to brainstorm innovative solutions, fostering a\ncollaborative environment.\nUtilized AutoCAD for design planning, improving model precision and reducing\niteration cycles by 20%."
+        }
+    ],
+    "skills": [
+        "MATLAB LabVIEW",
+        "Microsoft Office Suite SolidWorks",
+        "AutoCAD Data Analysis",
+        "TRAINING / COURSES",
+        "Introduction to MATLAB",
+        "Programming",
+        "Offered by Coursera",
+        "obtained in",
+        "2025.",
+        "Sustainable Engineering",
+        "Practices",
+        "Completed at edX",
+        "issued in 2025.",
+        "Advanced AutoCAD Techniques",
+        "Certification received from LinkedIn",
+        "Learning in 2025.",
+        "INTERESTS",
+        "Renewable Energy",
+        "Dedicated to exploring innovations in",
+        "renewable energy",
+        "including solar",
+        "power and sustainable technology.",
+        "www.enhancv.com",
+        "Powered by"
+    ],
+    "projects": [],
+    "certifications": [],
+    "achievements": [],
+    "images": []
+}

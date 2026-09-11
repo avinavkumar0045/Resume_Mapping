@@ -1,0 +1,44 @@
+{
+    "person": {
+        "name": "ANTHONY HARRIS",
+        "email": null,
+        "phone": "(234)-555-1234",
+        "location": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Passionate about engineering challenges and sustainable solutions, eager to contribute to innovative projects in renewable energy and smart technology. Skilled in CAD, data analysis, and technical communication, with a dedication to collaborating on impactful engineering solutions. Aspires to develop a career in engineering consultancy focusing on sustainable practices and cutting-edge technologies. TRAINING / COURSES Professional CAD Drafting Certification Certified by AutoDesk, obtained in 2024. Energy Systems Optimization Offered by Coursera, completed in 2024. Introduction to Renewable Energy Certified by edX, issued in 2023. INTERESTS Renewable Energy Innovations Exploring advancements and contributions in clean energy technology and solutions for a sustainable future. 3D Modeling and Design Passionate about creating detailed and functional models for engineering",
+    "education": [
+        {
+            "institution": "Bachelor's Degree in Mechanical Engineering",
+            "degree": "University of California, Los Angeles (UCLA)",
+            "field": null,
+            "start_date": null,
+            "end_date": null,
+            "graduation_date": null,
+            "gpa": null,
+            "percentage": null,
+            "coursework": []
+        }
+    ],
+    "experience": [
+        {
+            "company": "Unknown",
+            "role": "Unknown",
+            "description": "Engineering Intern\nGreenTech Designs\n01/2025 - 01/2026\nLos Angeles, CA\nAssisted project teams in designing advanced renewable energy systems,\ncontributing to designs that improved efficiency by 15%.\nConducted comprehensive data analysis using MATLAB, optimizing engineering\nprocesses and increasing project success rates by 20%.\nDrafted detailed technical reports and created presentations for stakeholders,\neffectively communicating project insights and outcomes.\nActively participated in team meetings, suggesting innovative ideas that led to\nthe development of two new project improvement initiatives.\nDeveloped precise CAD models supporting project demonstrations, enhancing\nteam presentations during client review sessions.\nCoordinated with project managers to achieve 100% on-time delivery of key\nproject milestones, supporting effective project management."
+        }
+    ],
+    "skills": [
+        "AutoCAD",
+        "MATLAB",
+        "SolidWorks",
+        "MS Office Suite",
+        "Data Analysis",
+        "Project Management Tools"
+    ],
+    "projects": [],
+    "certifications": [],
+    "achievements": [],
+    "images": []
+}

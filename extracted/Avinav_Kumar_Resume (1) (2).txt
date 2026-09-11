@@ -1,0 +1,66 @@
+AVINAV KUMAR 
++91-6299816845 · avinavkumar0045@gmail.com · GitHub · LinkedIn · LeetCode 
+EDUCATION 
+SRM Institute of Science and Technology 
+B.Tech in Computer Science and Engineering 
+2024 – 2028 
+Kattankulathur, Tamil Nadu 
+· CGPA: 9.91 
+DAV Hehal 
+2020 – 2022 
+Class XII 
+Ranchi, Jharkhand 
+· Percentage: 87.16% 
+WORK EXPERIENCE 
+Green Agrevolution Pvt. Ltd. 
+SDE Intern 
+June 2025 – July 2026 
+· Developed a custom ERP application for nursery operations using the Frappe Framework and ERPNext. 
+· Designed custom DocTypes, workﬂows, dashboards, and business forms to digitize nursery management. 
+· Integrated WhatsApp automation, REST APIs, Python, JavaScript, and MariaDB for business process automation. 
+· Processed over 500M+ GPS and TPMS records to extract 10,000+ tyre duty cycle events for ﬂeet-scale  
+   thermodynamic analysis. 
+· Built an end-to-end data engineering pipeline synchronizing GPS and TPMS data, reducing manual engineering effort by       
+   nearly 90%. 
+· Proposed machine learning models for pressure build-up prediction, tyre family comparison, load sensitivity analysis, and       
+   failure prediction. 
+Apollo Tyres R&D Global Asia – Phase III Project
+PROJECTS 
+Warehouse Occupancy Estimation Platform 
+· Built a production-ready warehouse occupancy estimation platform using FastAPI, Streamlit, PostgreSQL, SQLAlchemy  
+   and APScheduler. 
+· Integrated pretrained SegFormer semantic segmentation with ROI-based processing and RTSP multi-camera architecture. 
+· Developed scalable REST APIs, weighted occupancy aggregation, structured logging, Alembic migrations and camera      
+   health monitoring. 
+WanderLust 
+· Developed a full-stack travel and accommodation platform using Node.js, Express.js, MongoDB, EJS and Bootstrap. 
+· Implemented CRUD operations, authentication using Passport.js, image uploads with Multer and ﬂash messaging. 
+· Deployed the application on Render with secure environment variable management. 
+· Engineered a full-stack WebRTC video platform using React and Node.js, achieving sub-200ms signaling latency. 
+· Architected a decentralized WebRTC Mesh network supporting seamless peer-to-peer streaming for concurrent users.
+· Designed a responsive CSS Grid UI handling 50+ real-time WebSocket events per second at a stable 60 FPS.
+TECHNICAL SKILLS 
+Languages 
+C, Java, Python, JavaScript, HTML, CSS 
+Frameworks 
+React.js, Node.js, Express.js, Tailwind CSS, Bootstrap, Frappe, ERPNext 
+Databases 
+MongoDB, MySQL, PostgreSQL, Supabase, MariaDB 
+Libraries 
+NumPy, Pandas, Matplotlib 
+Tools 
+Git, GitHub, Docker, REST APIs 
+Coursework 
+Data Structures, Algorithms, DBMS, Operating Systems, OOP 
+Areas of Interest 
+AI/ML, Full Stack Development, Data Engineering, Problem Solving 
+ADDITIONAL ACHIEVEMENTS 
+• Best Team – HackPick Hackathon, SRMIST 
+• Winner – Samsung PRISM Metaverse AR/VR Ideathon
+• Silver Elite – NPTEL Fundamentals of Object-Oriented Programming 
+Mann Ki Baat
+Machine Learnining Industry Research Collaboration 
+April 2026 – Present 
+(August 2025)
+(2025–2026) 
+

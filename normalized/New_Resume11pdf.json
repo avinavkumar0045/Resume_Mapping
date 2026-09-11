@@ -1,0 +1,36 @@
+{
+    "person": {
+        "name": "RAJ KUMAR MEHTA",
+        "email": "mraj54131@gmail.com",
+        "phone": null,
+        "location": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+            "degree": "2024 - 2028",
+            "field": null,
+            "start_date": null,
+            "end_date": null,
+            "graduation_date": null,
+            "gpa": null,
+            "percentage": null,
+            "coursework": []
+        }
+    ],
+    "experience": [],
+    "skills": [],
+    "projects": [],
+    "certifications": [],
+    "achievements": [],
+    "images": [
+        {
+            "path": "extracted_images/New_Resume11pdf_page1_img0.jpeg",
+            "context": "projects"
+        }
+    ]
+}

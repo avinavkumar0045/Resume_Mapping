@@ -1,0 +1,44 @@
+{
+    "person": {
+        "name": "ZOE THOMPSON",
+        "email": null,
+        "phone": "(234)-555-1234",
+        "location": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Eager engineering student with expertise in CAD software, passionate about sustainable engineering solutions. Strong collaboration and analytical skills contribute to effective team environments. Aims to leverage engineering skills in innovative technology projects.",
+    "education": [
+        {
+            "institution": "Bachelor of Science in Mechanical Engineering",
+            "degree": "Austin, Texas",
+            "field": null,
+            "start_date": null,
+            "end_date": null,
+            "graduation_date": null,
+            "gpa": null,
+            "percentage": null,
+            "coursework": []
+        }
+    ],
+    "experience": [
+        {
+            "company": "Unknown",
+            "role": "Unknown",
+            "description": "Engineering Project Team Member\nAustin, Texas\nInnovateTech Group\n03/2025 - 07/2026\nLed a cross-functional team to create a sustainable engineering solution, increasing energy efficiency by 15%.\nApplied CAD software to produce detailed design models, which facilitated prototype development and testing.\nEngaged in weekly meetings with engineers, analyzing data which informed strategic project adjustments.\nDeveloped comprehensive technical reports which supported key engineering decisions and refined project outcomes.\nCollaborated in a diverse team environment, enhancing communication skills to effectively convey technical insights.\nRobotics Club Lead\nFort Worth, Texas\nEmerging Tech Robotics\n05/2025 - 10/2025\nFacilitated the design and testing of robots, resulting in improved accuracy of operations by 25%.\nConducted research and compiled reports, contributing to the optimization of robotic functions and designs.\nUtilized MATLAB for simulation and data analysis to refine robotic parameters, enhancing reliability.\nOrganized weekly hands-on sessions, fostering teamwork and communication among engineering students.\nVOLUNTEERING\nTechnical Volunteer\nHabitat for Humanity\n08/2025 - 03/2026\nAssisted in the technical aspects of sustainable housing projects.\nCoordinated with engineers to plan and execute construction tasks, improving resource allocation.\nOrganized training sessions for volunteers, enhancing their technical skills to support project goals.\nLed a team in fieldwork to ensure effective implementation of sustainable building practices."
+        }
+    ],
+    "skills": [
+        "CAD Modeling",
+        "AutoCAD",
+        "SolidWorks",
+        "Data Analysis",
+        "Microsoft Office Suite",
+        "MATLAB"
+    ],
+    "projects": [],
+    "certifications": [],
+    "achievements": [],
+    "images": []
+}
